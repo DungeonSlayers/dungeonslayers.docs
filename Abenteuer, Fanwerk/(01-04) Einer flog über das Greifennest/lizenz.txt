@@ -1,0 +1,7 @@
+Die in dieser rar-Datei enthaltenen Karten (dungeon, hof, huette, lichtung, overland) wurden von Sebastian Rupp gestaltet und werden unter folgender Lizenz veröffentlicht:
+
+Creative Commons 3.0
+
+Namensnennung-Keine kommerzielle Nutzung-Weitergabe unter gleichen
+Bedingungen 3.0 Deutschland
+http://creativecommons.org/licenses/by-nc-sa/3.0/de/
